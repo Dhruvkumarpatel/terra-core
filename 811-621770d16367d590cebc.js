@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[811],{2819:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;var u=i(t(0)),o=i(t(948));function i(e){return e&&e.__esModule?e:{default:e}}n.default=function(){return u.default.createElement(o.default,{title:"Open Section Header",onClick:function(){},isOpen:!0})}}}]);
+//# sourceMappingURL=811-621770d16367d590cebc.js.map

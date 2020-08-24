@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///packages/terra-demographics-banner/lib/terra-dev-site/doc/example/DemographicsBannerSmallContainer.module.scss"],"names":[],"mappings":"AAAA,kEAEI,eAAgB","file":"113-5fa9fd6081ad98b4bd0b.css","sourcesContent":[":local {\n  .content-wrapper {\n    max-width: 525px;\n  }\n}\n"]}

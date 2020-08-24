@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[812],{2820:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;var a=d(t(0)),i=d(t(948));function d(e){return e&&e.__esModule?e:{default:e}}var o=function(){return a.default.createElement(i.default,{title:"Transparent OnClick Section Header",onClick:function(){window.alert("The accordion has been clicked!")},"data-id":"section-header",isTransparent:!0})};n.default=o}}]);
+//# sourceMappingURL=812-f9efa0e9c3c73c453939.js.map

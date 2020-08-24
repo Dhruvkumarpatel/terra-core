@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[810],{2818:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;var a=o(t(0)),c=o(t(948));function o(e){return e&&e.__esModule?e:{default:e}}var i=function(){return a.default.createElement(c.default,{title:"OnClick Section Header",onClick:function(){window.alert("The accordion has been clicked!")},className:"onClickHeader"})};n.default=i}}]);
+//# sourceMappingURL=810-6d50979ff2f395858918.js.map

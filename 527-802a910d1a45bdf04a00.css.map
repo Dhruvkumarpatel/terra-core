@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///packages/terra-alert/lib/terra-dev-site/test/alert/AlertTestCommon.scss"],"names":[],"mappings":"AAAA,0CAII,WAAY,CAJhB,gDAEI,qBAAsB,CACtB,WACY","file":"527-802a910d1a45bdf04a00.css","sourcesContent":[":local {\n  .content-wrapper {\n    border: 1px solid #000;\n    padding: 5px;\n    width: 450px;\n  }\n}\n"]}
